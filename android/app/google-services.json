@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49854178391",
+    "project_id": "mediastorage-3a2f6",
+    "storage_bucket": "mediastorage-3a2f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49854178391:android:0213cfd0e680988574af12",
+        "android_client_info": {
+          "package_name": "com.example.yawar_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALm6mcilEE5s3PRBLBhOiAJBsUToqlvM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
